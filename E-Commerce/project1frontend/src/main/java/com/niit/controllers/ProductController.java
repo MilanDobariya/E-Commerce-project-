@@ -17,6 +17,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.ModelAndView;
 
@@ -90,7 +91,7 @@ public class ProductController {
 	}
 	
 	@RequestMapping(value="/admin/saveproduct")
-	public String saveProduct(@Valid @ModelAttribute(name="product") Product product,BindingResult result,Model model,HttpRequest request){
+	public String saveProduct(@Valid @ModelAttribute(name="product") Product product,BindingResult result,Model model,HttpServletRequest request){
 		if(result.hasErrors()){//hasErrors return true if product details in not valid
 			model.addAttribute("categories",productService.getAllCategories());
 			return "productform";
@@ -120,14 +121,46 @@ public class ProductController {
 	
 	}
 	@RequestMapping(value="/admin/updateproduct")
-	public String updateProduct(@Valid @ModelAttribute(name="product") Product product,BindingResult result,Model model){
+	public String updateProduct(@Valid @ModelAttribute(name="product") Product product,BindingResult result,Model model,HttpServletRequest request){
 		if(result.hasErrors()){
 			model.addAttribute("categories",productService.getAllCategories());
 			return "updateproductform";
 		}
 		System.out.println("New Product Details " + product);
 		productService.updateProduct(product);
+		
+		MultipartFile prodImage=product.getImage();//image uploaded in the productform.jsp
+		if(prodImage!=null && !prodImage.isEmpty()){
+			//how to get rootdirectory
+			String rootdirectory=request.getServletContext().getRealPath("/");
+			System.out.println("Root Directory " + rootdirectory);
+			//create a path
+			Path paths=Paths.get(rootdirectory+"/WEB-INF/resources/images/"+product.getId()+".png");
+			
+				//it throws checked exception
+				try {
+					prodImage.transferTo(new File(paths.toString()));
+				} catch (IllegalStateException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			
+		}
 		return "redirect:/all/getproducts";
+	}
+	@RequestMapping(value="/all/searchbycategory")
+	public String searchByCategory(@RequestParam String searchCondition,Model model){
+		if(searchCondition.equals("All")){
+			model.addAttribute("searchCondition","");
+		}
+		else
+		model.addAttribute("searchCondition",searchCondition);
+		List<Product> products=productService.getAllProducts();
+		model.addAttribute("productsAttr",products);
+		return "productlist";
 	}
 	
 }

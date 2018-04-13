@@ -15,10 +15,10 @@ public HomeController(){
 //This a handler method
 //It can handle the request "http://localhost:8080/project1frontend/home -> DispatcherServlet -> "home"->
 // /WEB-INF/views/home.jsp
-@RequestMapping(value="/")
+/*@RequestMapping(value="/")
 public String getHomePage(){
 	return "home";
-}
+}*/
 @RequestMapping(value="/home")
 public String getHome(){
 	return "home";

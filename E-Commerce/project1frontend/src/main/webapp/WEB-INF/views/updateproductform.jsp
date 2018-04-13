@@ -1,4 +1,3 @@
-
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <%@ include file="header.jsp"%>
@@ -15,7 +14,7 @@
 	<div class="container">
 	<h3 align="center">Update Product</h3>
 	<c:url value="/admin/updateproduct" var="url"></c:url>
-	<form:form action='${url }' modelAttribute="product" role="form">
+	<form:form action='${url }' modelAttribute="product" role="form" enctype="multipart/form-data">
 		<!-- hidden field is for product id
 			product.setId(0)
  		-->
@@ -47,16 +46,20 @@
         </div>
         
         <div class="form-group">
-         <form:label path="category.id">Select Category</form:label>
+        <form:label path="category.id">Select Category</form:label>
      
         <form:select path="category.id">
         <c:forEach items="${categories }" var="c">
         
-        <form:option value="${c.id }">${c.categoryname } </form:option>
+        <form:option value="${c.id }">${c.categoryname }  </form:option>
         </c:forEach>
         </form:select>
-        
         </div>
+        
+         <div class="form-group">
+		<form:label path="image">Upload image</form:label>
+		<form:input type="file" path="image"></form:input>
+		</div>
 		<input type="submit" value="Edit Product">
 	</form:form>
 	</div>

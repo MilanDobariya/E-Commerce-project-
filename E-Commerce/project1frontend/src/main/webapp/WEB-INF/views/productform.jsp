@@ -15,7 +15,7 @@
 	<div class="container">
 	<h3 align="center">Add Product</h3>
 	<c:url value="/admin/saveproduct" var="url"></c:url>
-	<form:form action='${url }' modelAttribute="product" role="form">
+	<form:form action='${url }' modelAttribute="product" role="form" enctype="multipart/form-data">
 		<!-- hidden field is for product id
 			product.setId(0)
  		-->

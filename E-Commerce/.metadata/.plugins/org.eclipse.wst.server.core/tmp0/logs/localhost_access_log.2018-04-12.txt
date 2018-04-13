@@ -1,2 +1,10 @@
 127.0.0.1 - - [12/Apr/2018:18:22:30 +0530] "GET / HTTP/1.1" 404 994
 0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:22:32 +0530] "GET /project1frontend/ HTTP/1.1" 500 11541
+127.0.0.1 - - [12/Apr/2018:18:28:32 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:28:37 +0530] "GET /project1frontend/ HTTP/1.1" 200 6166
+0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:28:37 +0530] "GET /project1frontend/css/sample.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:28:37 +0530] "GET /project1frontend/resources/images/img2.jpg;jsessionid=407E4EFDD6FC0C042077EB031013BCEE HTTP/1.1" 200 115314
+0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:28:37 +0530] "GET /project1frontend/resources/images/2.jpg;jsessionid=407E4EFDD6FC0C042077EB031013BCEE HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:28:37 +0530] "GET /project1frontend/resources/images/3.jpg;jsessionid=407E4EFDD6FC0C042077EB031013BCEE HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:28:37 +0530] "GET /project1frontend/resources/images/4.jpg;jsessionid=407E4EFDD6FC0C042077EB031013BCEE HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [12/Apr/2018:18:28:38 +0530] "GET /project1frontend/resources/images/DreamArea.png;jsessionid=407E4EFDD6FC0C042077EB031013BCEE HTTP/1.1" 200 5412663
