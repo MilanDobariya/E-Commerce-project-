@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartFile"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="com.niit.model.Authorities"/>
+<fullyQualifiedTypeName name="com.niit.model.BillingAddress"/>
+<fullyQualifiedTypeName name="com.niit.model.Cart"/>
+<fullyQualifiedTypeName name="com.niit.model.ShippingAddress"/>
+<fullyQualifiedTypeName name="com.niit.model.User"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="org.hibernate.id.uuid.StandardRandomStrategy"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="com.niit.model.Customer"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
 </qualifiedTypeNameHistroy>

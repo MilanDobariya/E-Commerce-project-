@@ -19,6 +19,9 @@ private int id;
 private String categoryname;
 @OneToMany(mappedBy="category")//Product entity we have property named category
 private List<Product> products;
+public Category() {
+	System.out.println("category object created");
+}
 public int getId() {
 	return id;
 }

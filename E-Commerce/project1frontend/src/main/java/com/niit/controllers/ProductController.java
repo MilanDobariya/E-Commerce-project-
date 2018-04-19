@@ -101,11 +101,11 @@ public class ProductController {
 		MultipartFile prodImage=product.getImage();//image uploaded in the productform.jsp
 		if(prodImage!=null && !prodImage.isEmpty()){
 		//how to get rootdirectory
-		
+			//H:\project1(punita medam)\E-Commerce\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\project1frontend\
 			String rootdirectory=request.getServletContext().getRealPath("/");
 		System.out.println("Root Directory "+rootdirectory);
 		//create path
-		Path paths=Paths.get(rootdirectory+"WEB-INF/resources/images/"+product.getId()+".png");
+		Path paths=Paths.get(rootdirectory+"/WEB-INF/resources/images/"+product.getId()+".png");
 		
 		try{
 		//it throws checked exception

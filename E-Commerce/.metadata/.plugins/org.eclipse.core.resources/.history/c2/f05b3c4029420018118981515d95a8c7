@@ -1,0 +1,12 @@
+package com.niit.dao;
+
+import com.niit.model.Customer;
+
+public class CustomerDaoImpl implements CustomerDao {
+
+	public void registerCustomer(Customer customer) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

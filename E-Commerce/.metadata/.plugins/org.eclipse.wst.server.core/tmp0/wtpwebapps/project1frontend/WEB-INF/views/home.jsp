@@ -20,7 +20,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="first-slide home-image" src='<c:url value="/resources/images/img2.jpg"></c:url>' alt="first slide" height="100%" width="100%">
+                    <img class="first-slide home-image" src='<c:url value="/resources/images/java2.jpg"></c:url>' alt="first slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>WELCOME TO THE CAR STORE</h1>
@@ -29,7 +29,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="second-slide home-image" src='<c:url value="/resources/images/2.jpg"></c:url>' alt="Second slide" height="100%" width="100%">
+                    <img class="second-slide home-image" src='<c:url value="/resources/images/hp laptop.jpg"></c:url>' alt="Second slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>The Car Store.</h1>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="third-slide home-image " src='<c:url value="/resources/images/3.jpg"></c:url>' alt="Third slide" height="100%" width="100%">
+                    <img class="third-slide home-image " src='<c:url value="/resources/images/bullate.jpg"></c:url>' alt="Third slide" height="10%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>The Car You Love</h1>
@@ -48,7 +48,7 @@
                 </div>
                  <div class="item">
                  <!-- mvc:resources /resources/**  -> /WEB-INF/resources -->
-                    <img class="forth-slide home-image " src='<c:url value="/resources/images/4.jpg"></c:url>' alt="forth slide" height="100%" width="100%">
+                    <img class="forth-slide home-image " src='<c:url value="/resources/images/img2.jpg"></c:url>' alt="forth slide" height="10%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>Any car can be a "cool" car</h1>

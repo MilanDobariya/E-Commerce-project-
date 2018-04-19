@@ -1,0 +1,12 @@
+package com.niit.services;
+
+import com.niit.model.Customer;
+
+public class CustomerServiceImpl implements CustomerService {
+
+	public void registerCustomer(Customer customer) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

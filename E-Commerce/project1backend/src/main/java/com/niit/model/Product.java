@@ -33,50 +33,67 @@ private double price;
 private Category category;
 @Transient//not persistent
 private MultipartFile image;
+public Product() {
+System.out.println("product object created");
+}
 
 public int getId() {
+	System.out.println("getId");
 	return id;
 }
 public void setId(int id) {
+	System.out.println("setId");
 	this.id = id;
 }
 public String getProductname() {
+	System.out.println("getProductname");
 	return productname;
 }
 public void setProductname(String productname) {
+	System.out.println("setProductname");
 	this.productname = productname;
 }
 public String getProductdescription() {
+	System.out.println("getproductdescription");
 	return productdescription;
 }
 public void setProductdescription(String productdescription) {
+	System.out.println("set productdescription");
 	this.productdescription = productdescription;
 }
 public int getQuantity() {
+	System.out.println("getQuantity");
 	return quantity;
 }
 public void setQuantity(int quantity) {
+	System.out.println("setQuantity");
 	this.quantity = quantity;
 }
 public double getPrice() {
+	System.out.println("getPrice");
 	return price;
 }
 public void setPrice(double price) {
+	System.out.println("setPrice");
 	this.price = price;
 }
 
 public Category getCategory() {
+	System.out.println("getCategory");
 	return category;
 }
 public void setCategory(Category category) {
+	System.out.println("setCategory");
 	this.category = category;
 }
 
 
 public MultipartFile getImage() {
+	System.out.println("getImage");
 	return image;
 }
 public void setImage(MultipartFile image) {
+	System.out.println("setImage");
 	this.image = image;
 }
 @Override
