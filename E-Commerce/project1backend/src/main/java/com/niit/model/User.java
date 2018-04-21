@@ -1,8 +1,12 @@
 package com.niit.model;
 
+import java.util.List;
+
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 @Entity
 public class User {
@@ -14,8 +18,10 @@ private boolean enabled;
 private Customer customer;
 @OneToOne(mappedBy="user",cascade=CascadeType.ALL)
 private Authorities authorities;
-public User() {
-	System.out.println("user object created");
+@OneToMany(mappedBy="user",fetch=FetchType.EAGER)
+private List<CartItem> cartItems;
+public User(){
+	System.out.println("User object is created");
 }
 public String getEmail() {
 	return email;
@@ -46,6 +52,12 @@ public Authorities getAuthorities() {
 }
 public void setAuthorities(Authorities authorities) {
 	this.authorities = authorities;
+}
+public List<CartItem> getCartItems() {
+	return cartItems;
+}
+public void setCartItems(List<CartItem> cartItems) {
+	this.cartItems = cartItems;
 }
 
 }

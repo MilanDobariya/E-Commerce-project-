@@ -12,7 +12,10 @@
 		<div class="panel panel-info" style="width: 450px">
 			<!-- product.getProductName() -->
 			<div class="panel-heading">Product Details</div>
+			
 			<div class="panel-body">
+				<c:url value="/cart/addtocart/${product.id }" var="url"></c:url>
+				<form action="${url }">
 				<table>
 					<tr>
 						<td><b>ProductName</b>: ${product.productname }<br> <b>Category
@@ -25,6 +28,19 @@
 						</td>
 					</tr>
 				</table>
+				
+				<c:if test="${product.quantity==0 }">
+				<button class="btn btn-warning" disable>Out Of Stock</button>
+				</c:if>
+				
+				<c:if test="${product.quantity!=0 }">
+				<security:authorize access="hasRole('ROLE_USER')">
+				<!-- if you submit, insert into cartitem values(?,quantity,totalprice,product,user -->
+				Enter quantity:<input type="number" value="1" name="requestedQuantity" min="1" max="${product.quantity }"><br>
+				<button type="submit" class="btn btn-info button btn-lg"><span class="glyphicon glyphicon-shopping-cart"></span>Add to cart</a></button>
+				</security:authorize>
+				</c:if>
+			</form>
 			</div>
 		</div>
 	</div>

@@ -910,3 +910,212 @@ java.net.UnknownHostException: java.sun.com
 2018-04-19 14:16:20,566 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-04-19 14:16:20,568 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-04-19 14:16:20,580 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-19 14:46:48,279 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:46:48,280 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-19 14:46:48,284 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:46:48,284 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-19 14:49:57,131 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:49:57,131 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-19 14:49:57,132 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:49:57,132 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-19 14:51:46,210 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:51:46,210 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-19 14:51:46,211 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:51:46,211 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-19 14:52:14,357 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:52:14,357 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-19 14:52:14,358 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-19 14:52:14,358 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-19 19:22:43,351 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:22:43,362 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-19 19:22:43,363 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:22:43,371 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-19 19:28:22,028 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:28:22,039 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-19 19:28:22,040 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:28:22,048 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-19 19:33:11,336 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:33:11,366 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-19 19:33:11,369 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:33:11,381 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-19 19:35:19,782 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:35:19,803 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-19 19:35:19,806 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-19 19:35:19,817 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 11:15:34,221 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 11:15:34,283 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 11:15:34,291 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 11:15:34,312 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 11:29:59,716 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 11:29:59,729 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 11:29:59,731 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 11:29:59,732 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 11:46:45,866 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 11:46:45,949 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 11:46:45,950 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 11:46:45,960 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 11:57:54,960 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 11:57:54,998 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 11:57:55,000 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 11:57:55,012 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 12:17:43,924 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 12:17:43,941 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 12:17:43,943 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 12:17:43,953 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 12:20:47,651 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 12:20:47,669 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 12:20:47,670 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 12:20:47,678 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 12:28:54,388 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 12:28:54,411 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 12:28:54,415 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 12:28:54,446 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 12:31:25,865 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:31:25,865 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 12:31:25,867 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:31:25,867 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 12:35:04,384 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:35:04,384 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 12:35:04,386 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:35:04,386 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 12:41:26,161 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:41:26,162 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 12:41:26,163 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:41:26,163 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 12:46:08,899 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:46:08,900 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 12:46:08,904 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:46:08,904 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 12:57:08,230 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:57:08,231 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 12:57:08,238 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:57:08,239 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 12:57:21,282 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:57:21,282 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 12:57:21,285 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:57:21,286 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 12:58:07,039 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:58:07,039 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 12:58:07,040 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 12:58:07,041 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 13:01:09,145 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 13:01:09,145 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 13:01:09,147 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 13:01:09,147 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 13:03:05,485 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:03:05,510 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 13:03:05,514 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:03:05,535 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 13:12:46,306 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:12:46,324 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 13:12:46,324 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:12:46,342 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 13:25:41,130 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 13:25:41,130 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 13:25:41,132 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 13:25:41,133 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 13:25:41,189 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:25:41,212 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 13:25:41,213 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:25:41,226 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 13:25:57,705 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:25:57,727 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 13:25:57,731 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 13:25:57,742 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 16:14:42,850 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 16:14:42,884 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 16:14:42,886 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 16:14:42,892 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 16:15:53,565 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 16:15:53,566 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 16:15:53,567 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 16:15:53,567 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 16:58:56,387 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 16:58:56,399 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 16:58:56,402 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 16:58:56,410 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 17:02:39,846 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:02:39,854 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 17:02:39,855 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:02:39,863 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 17:04:07,263 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:04:07,279 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 17:04:07,280 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:04:07,290 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 17:05:08,681 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:05:08,696 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 17:05:08,698 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:05:08,710 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 17:09:17,571 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:09:18,195 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 17:09:18,196 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:09:18,201 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 17:11:58,745 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 17:11:58,745 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 17:11:58,747 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 17:11:58,748 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 17:13:37,970 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 17:13:37,970 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 17:13:37,971 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 17:13:37,971 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 17:15:04,863 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 17:15:04,864 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 17:15:04,865 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 17:15:04,865 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 17:15:04,918 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:15:04,958 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 17:15:04,959 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:15:04,968 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 17:19:40,371 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:19:40,397 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 17:19:40,400 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:19:40,408 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 17:20:16,830 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:20:16,853 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 17:20:16,855 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 17:20:16,909 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 18:55:51,929 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 18:55:51,954 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 18:55:51,955 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 18:55:51,966 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 19:04:56,703 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:04:56,719 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 19:04:56,721 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:04:56,730 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 19:05:24,591 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:05:24,619 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 19:05:24,628 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:05:24,643 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 19:24:52,227 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:24:52,243 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 19:24:52,247 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:24:52,267 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 19:41:49,410 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-20 19:41:58,568 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.niit:project1backend:0.0.1-SNAPSHOT @ H:\project1(punita medam)\E-Commerce\project1backend\pom.xml.
+2018-04-20 19:41:59,696 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:project1frontend:0.0.1-SNAPSHOT @ H:\project1(punita medam)\E-Commerce\project1frontend\pom.xml.
+2018-04-20 19:42:02,859 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1backend/src/main/java
+2018-04-20 19:42:02,860 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1backend/src/test/java
+2018-04-20 19:42:03,275 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1frontend/src/main/java
+2018-04-20 19:42:03,276 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project1frontend/src/main/resources
+2018-04-20 19:42:03,277 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1frontend/src/test/java
+2018-04-20 19:42:06,232 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for project1frontend
+2018-04-20 19:42:06,236 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2018-04-20 19:42:07,416 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 19:42:07,416 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 19:42:07,418 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 19:42:07,418 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 19:42:08,595 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:42:08,614 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 19:42:08,615 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:42:08,624 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
+2018-04-20 19:42:08,624 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of project1frontend
+2018-04-20 19:42:08,625 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for project1frontend
+2018-04-20 19:42:08,632 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:42:32,436 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 19:42:32,437 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\main\resources
+2018-04-20 19:42:32,440 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-20 19:42:32,440 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1backend\src\test\resources
+2018-04-20 19:42:34,609 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:42:34,645 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-20 19:42:34,648 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-20 19:42:34,665 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\project1(punita medam)\E-Commerce\project1frontend\src\test\resources
