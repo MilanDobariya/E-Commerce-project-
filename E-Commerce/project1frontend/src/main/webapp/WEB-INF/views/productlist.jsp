@@ -63,7 +63,7 @@ p = 1 1000.0 Product Description for toy car Toy Car 12
 
 						<security:authorize access="hasRole('ROLE_ADMIN')" >
 						<a href='<c:url value="/admin/deleteproduct/${p.id }"></c:url>'><span
-								class="glyphicon glyphicon-trash"></span></a>
+								class="glyphicon glyphicon-trash" onclick="confirm('Are you sure')"></span></a>
 								
 						<a href='<c:url value="/admin/updateproductform/${p.id }"></c:url>'><span class="glyphicon glyphicon-pencil"></span></a>		
 						</security:authorize>

@@ -19,7 +19,7 @@ private SessionFactory sessionFactory;
 	     public ProductDaoImpl(){
 	    	 System.out.println("productDaoImpl bean created");
 	     }
-	
+	     
 	public List<Product> getAllProducts() {
 		System.out.println(" *ProductDaoImpl first created bean in sessionfactory");
 		Session session=sessionFactory.getCurrentSession();

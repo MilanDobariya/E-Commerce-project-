@@ -41,7 +41,7 @@
 			url - http://localhost:8080/project1frontend/resources/images/niit.jpg
 			 -->
 				<a class="navbar-brand" href="">
-		<img src='<c:url value="/resources/images/DreamArea.jpg"></c:url>' alt="NIIT" height="30px" width="120px"></a>
+		<img src='<c:url value="/resources/images/niit.jpg"></c:url>' alt="NIIT" height="30px" width="120px"></a>
 			</div>
 			<div class="collapse navbar-collapse" id="collapse-example">
 			<ul class="nav navbar-nav" id="links">
@@ -66,9 +66,12 @@
 					<!-- Request parameter
 					parameter name is 'searchCondition' -->
 					   <a href='<c:url value="/all/searchbycategory?searchCondition=Kitchen and Dining"></c:url>'>Kitchen and Dining</a>
-					   <a href='<c:url value="/all/searchbycategory?searchCondition=Furniture"></c:url>'>Furniture</a>
+					   <a href='<c:url value="/all/searchbycategory?searchCondition=Mobile"></c:url>'>Mobile</a>
+					   <a href='<c:url value="/all/searchbycategory?searchCondition=furniture"></c:url>'>Furniture</a>
+					   <a href='<c:url value="/all/searchbycategory?searchCondition=Laptop"></c:url>'>Laptop</a>
+					   <a href='<c:url value="/all/searchbycategory?searchCondition=Vehicle"></c:url>'>Vehicle</a>
 					   <a href='<c:url value="/all/searchbycategory?searchCondition=Education"></c:url>'>Education</a>
-					   <a href='<c:url value="/all/searchbycategory?searchCondition=Toys"></c:url>'>Toys</a>
+					   
 					   <a href='<c:url value="/all/searchbycategory?searchCondition=All"></c:url>'>All</a>
                     </li>
 			</ul>
@@ -77,10 +80,11 @@
 			<li><a href='<c:url value="/all/registrationform"></c:url>'>Sign Up</a></li>
 			<li><a href='<c:url value="/login"></c:url>'>Sign In</a></li>
 			</c:if>
-			
-			<li><a href="<c:url value='/cart/purchasedetails'></c:url>"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
-			
 			<c:if test="${pageContext.request.userPrincipal.name!=null }">
+			<li><a href="<c:url value='/cart/purchasedetails'></c:url>"><span class="glyphicon glyphicon-shopping-cart"></span>(${sessionScope.cartSize })</a></li>
+			</c:if>
+			<c:if test="${pageContext.request.userPrincipal.name!=null }">
+			<li><a href="">${pageContext.request.userPrincipal.name}</a></li>
 			<li><a href='<c:url value="/j_spring_security_logout"></c:url>'>logout</a></li>
 			</c:if>
 			</ul>
@@ -89,6 +93,10 @@
 	</nav>
 </body>
 </html>
+
+
+
+
 
 
 

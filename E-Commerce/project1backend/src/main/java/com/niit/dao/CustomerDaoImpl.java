@@ -9,6 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.niit.model.Authorities;
 import com.niit.model.Cart;
 import com.niit.model.Customer;
+import com.niit.model.User;
 
 @Repository
 @Transactional
@@ -25,8 +26,8 @@ public class CustomerDaoImpl implements CustomerDao {
 		
 		Authorities authorities=new Authorities();
 		authorities.setRole("ROLE_USER");
-		authorities.setUser(customer.getUser());//FK user_email in authroities table (t)(s)
-		customer.getUser().setAuthorities(authorities);//without this line no entery in database (s)
+		authorities.setUser(customer.getUser());//FK user_email in authroities table
+		customer.getUser().setAuthorities(authorities);
 		
 		Cart cart=new Cart();
 		customer.setCart(cart);
@@ -36,4 +37,3 @@ public class CustomerDaoImpl implements CustomerDao {
 	}
 //all objects are detached
 }
-
